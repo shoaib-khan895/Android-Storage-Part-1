@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPrefApp</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="get_text_here">get text here</string>
+</resources>
